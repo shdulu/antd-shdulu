@@ -1,0 +1,16 @@
+{
+  "name": "@shdulu/antd",
+  "version": "1.0.0",
+  "description": "React 组件库",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": ["react", "component"],
+  "author": "shdulu",
+  "license": "MIT"
+}
